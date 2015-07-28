@@ -1,0 +1,9 @@
+[
+	{ "keys": ["ctrl+shift+i"], "command": "login" },
+	{ "keys": ["ctrl+shift+o"], "command": "logout" },
+	{ "keys": ["ctrl+shift+c"], "command": "create_paste" },
+	{ "keys": ["ctrl+shift+m"], "command": "modify_paste" },
+	{ "keys": ["ctrl+shift+d"], "command": "delete_paste" },
+	{ "keys": ["ctrl+shift+g"], "command": "get_paste" },
+	{ "keys": ["ctrl+shift+a"], "command": "associate_from_pasteid" }
+]
