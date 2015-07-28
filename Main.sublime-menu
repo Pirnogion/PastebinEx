@@ -1,0 +1,18 @@
+[
+{
+    "id": "pastebinex",
+    "caption":  "PastebinEx",
+    "children":
+    [
+        { "command": "login" , "caption": "Login" },
+        { "command": "logout" , "caption": "Logout" },
+        {"caption":"-"},
+        { "command": "create_paste", "caption": "Create paste" },
+        { "command": "modify_paste", "caption": "Modify paste" },
+        { "command": "delete_paste", "caption": "Delete paste" },
+        { "command": "get_paste", "caption": "Get paste" },
+        {"caption":"-"},
+        { "command": "associate_from_pasteid", "caption": "Associate this file from pasteid" }
+    ]
+}
+]
